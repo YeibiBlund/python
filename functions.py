@@ -1,3 +1,5 @@
+
+"""Ejercicio 1"""
 def sumar_numeros_impares(numbers):
     """Sum the odd numbers in a list of numbers and return the result."""
     total = 0
